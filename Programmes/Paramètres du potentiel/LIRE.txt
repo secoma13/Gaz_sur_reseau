@@ -1,0 +1,2 @@
+Les graphes qui apparaissent dans cette section du rapport et les animations se construisent égale que dans le cas antérieurs. 
+Les valeurs qui sont déjà dans la fonction main permettent d'obtenir un graphe similaire a celui de la figure 5c. Le programme produit un fichier "energy.txt" qui contient les valeurs de l'énergie en fonction du nombre d'iterations. L'énergie est la seule valeur qui apparait, le nombre d'iterations est donnée par la ligne du fichier.

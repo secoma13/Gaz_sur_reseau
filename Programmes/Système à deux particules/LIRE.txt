@@ -1,0 +1,1 @@
+Pour produire les animations, il faut d'abord compliler et executer le programme "projet", et puis executer le programme "animation.py". Les données sur "main.cpp" permettent d'obtenir l'animation de duex particules, dans une grille de taille 7 x 7 et à T = 10 K. 

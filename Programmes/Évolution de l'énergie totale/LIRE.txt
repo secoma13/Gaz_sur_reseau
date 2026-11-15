@@ -1,0 +1,3 @@
+Les codes pyhton sont les fonctions qu'on a utilisés pour faire les graphiques du rapport.
+
+Les données qui sont déjà selectionnés dans main permettent d'obtenir un graphe similaire à celui de la figure 2b pour l'énergie, et 3b pour l'écart type. Pour faire la répresentation des donnés en utilisant un programme autre que nos codes python, l'énergie en fonction dui nombre d'iterations se trouve dans le fichier "energy.txt" et l'ecart type, aussi en fonction du nombre d'itérations se troive dans le fichier "ecartype.txt". Les deux fichiers sont produits par le programme. L'énergie est la seule valeur qui apparait dnas le fichier "energy.txt", le nombre d'iterations est donnée par la ligne du fichier.
